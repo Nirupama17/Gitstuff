@@ -53,6 +53,7 @@ public class ExtendReportDemo {
 		System.out.println(driver.getTitle());
 
 		extend.flush();
+		System.out.println("Done");
 
 	}
 
